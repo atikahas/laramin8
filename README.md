@@ -1,7 +1,7 @@
 ## Installation Guide
 
 #### Clone the repo
-    $ git clone https://github.com/msafrin3/laramin8.git myApp
+    $ git clone https://github.com/atikahas/laramin8.git myApp
 
 #### Configure `.env` file.
 
